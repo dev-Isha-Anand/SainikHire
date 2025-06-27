@@ -19,7 +19,7 @@ SanikHire offers a streamlined and user-friendly experience for ex-servicemen to
   <li>💬<b> Chatbot Assistant</b> – Provides answer to queries related to jobs and app.</li>
 </ul>
 
-## Explaination 
+## 📝 Explaination 
 Feature 1 : Search Engine
 <h4></h4>
 
