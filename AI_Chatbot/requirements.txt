@@ -1,0 +1,16 @@
+
+flask
+torch
+transformers
+accelerate
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+pypdf 
+requests 
+beautifulsoup4 
+pandas
+pymongo
+
