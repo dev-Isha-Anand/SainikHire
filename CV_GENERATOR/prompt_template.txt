@@ -1,0 +1,38 @@
+You are a professional resume writer.
+
+Generate a clean, structured resume  with these keys:
+- name
+- role
+- email
+- phone
+- address
+- summary
+- education
+- experience
+- skills
+- projects
+- awards
+
+Candidate Details:
+- Name: {name}
+- Role: {role}
+- Email: {email}
+- Phone: {phone}
+- Address: {address}
+- Summary: {summary}
+- Education: {education}
+- Experience: {experience}
+- Skills: {skills}
+- Projects: {projects}
+- Awards: {awards}
+
+
+
+
+
+Make sure to include:
+- Add three extra more points and explain in experiance and Skills section by your own in each sections
+- Section headers clearly
+- Bullet points for job roles/projects
+- Explain bullet points for job roles/ Skills 
+- Output must match real-world professional resume style
